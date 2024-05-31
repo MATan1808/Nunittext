@@ -1,0 +1,10 @@
+G:\KTPM\DoAn\PrimeNumber\bin\x64\Release\PrimeNumber.exe.config
+G:\KTPM\DoAn\PrimeNumber\bin\x64\Release\PrimeNumber.exe
+G:\KTPM\DoAn\PrimeNumber\bin\x64\Release\PrimeNumber.pdb
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.csproj.AssemblyReference.cache
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.Form1.resources
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.Properties.Resources.resources
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.csproj.GenerateResource.cache
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.csproj.CoreCompileInputs.cache
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.exe
+G:\KTPM\DoAn\PrimeNumber\obj\x64\Release\PrimeNumber.pdb
